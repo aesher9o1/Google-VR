@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#fc0</color>
+    <color name="colorPrimary">#fff6f6f6</color>
+    <color name="colorPrimaryDark">#ff212121</color>
+    <color name="colorSecondary">#ff292f38</color>
+    <color name="colorBackDrop">#333a45</color>
+    <color name="colorSecondaryDark">#ff292f38</color>
+    <color name="colorSecondaryAccent">#ff4081</color>
+    <color name="iconLight">#ffffffff</color>
+    <color name="textLight">#ffffffff</color>
+    <color name="textHintLight">#5efafafa</color>
+    <color name="ionHeaderTint">#64ffb937</color>
+    <color name="mcdHeaderTint">#64ffb937</color>
+    <color name="amsHeaderTint">#64ffb937</color>
+    <color name="darkBackground">#ff333a45</color>
+    <color name="darkFooterBackground">#fff5a671</color>
+    <color name = "textBoxColor">#ff292929</color>
+    <color name="positiveButton">#009688</color>
+    <color name="neutralButton">#5794f5</color>
+    <color name="negativeButton">#a6dc4f4a</color>
+    <color name="menuIcon">#6d6d6d</color>
+    <color name="tabIndicator">#ff84d4f9</color>
+    <color name="menuText">#1f1f1f</color>
+
+
+    //card color
+    <color name ="redCard">#ff5252</color>
+    <color name = "yellowCard">#ffb74d</color>
+    <color name ="defaultCard">#ff424242</color>
+
+
+    <!-- Casual colors to use when needed-->
+    <color name ="white">#FFFFFF</color>
+</resources>
